@@ -45,12 +45,20 @@ main {
 
 /* Paragraph Styling */
 .content p {
-   
+   font-family: Times New Roman;
+    font-size: 22px;
+    line-height: 1.6;
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: #ffff00;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0.1);
 }
 
 /* Footer */
 footer {
-    background: #2E7D32;
+    background: #FF0000;
     color: white;
     text-align: center;
     padding: 10px 0;

@@ -17,7 +17,7 @@ body {
 
 /* Header */
 header {
-    background: #2E7D32; /* Green header */
+    background: #FF0000; /* Red header */
     color: white;
     padding: 20px;
     text-align: center;
@@ -36,6 +36,7 @@ main {
 .bio-img {
     display: block;
     max-width: 100%;
+    img-align: centre;
     height: auto;
     border-radius: 10px;
     margin: 20px 0;
@@ -44,10 +45,7 @@ main {
 
 /* Paragraph Styling */
 .content p {
-    font-size: 18px;
-    line-height: 1.8;
-    color: #444;
-    text-align: justify;
+   
 }
 
 /* Footer */
